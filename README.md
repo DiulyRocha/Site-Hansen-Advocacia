@@ -1,6 +1,7 @@
 # Escritório de Advocacia Hansen
 
 Este é o site institucional do Escritório de Advocacia Hansen, desenvolvido em ReactJS.
+Criado para a atividade da disciplina  DESENVOLVIMENTO DE APLICAÇÕES ORIENTADA A COMPONENTES
 
 ## ✅ Funcionalidades
 

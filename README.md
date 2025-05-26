@@ -1,25 +1,47 @@
-# Escritório de Advocacia Hansen
+# Projeto: Prática de Criação e Utilização de Componentes em React
 
-Este é o site institucional do Escritório de Advocacia Hansen, desenvolvido em ReactJS.
-Criado para a atividade da disciplina  DESENVOLVIMENTO DE APLICAÇÕES ORIENTADA A COMPONENTES
+Este projeto foi desenvolvido como parte da disciplina **Desenvolvimento de Aplicações Orientada a Componentes**, seguindo a proposta prática de criação e utilização de componentes no React.
 
-## ✅ Funcionalidades
+## ✅ Descrição da Tarefa
 
-- Quem Somos
-- Equipe
-- Contatos
-- Horários de Atendimento
+O objetivo desta atividade é:
 
-## 🚀 Como executar
+- Praticar a criação de **componentes funcionais**.
+- Demonstrar a **importação e utilização** desses componentes dentro do componente principal da aplicação (`App.js`).
+- Garantir o correto funcionamento e renderização dos componentes na aplicação.
 
-1. Clone o repositório.
-2. Instale as dependências: `npm install`
-3. Execute: `npm start`
+## 📝 Estrutura Desenvolvida
 
-Abra: http://localhost:3000
+- `App.js`: componente principal da aplicação.
+- `QuemSomos.js`: componente com conteúdo sobre o escritório.
+- `Equipe.js`: componente apresentando os integrantes da equipe.
+- `Contatos.js`: componente com informações de contato.
+- `Horarios.js`: componente com horários de atendimento.
+- `Footer.js`: rodapé com informações adicionais.
 
-## 📫 Contato
+Cada componente foi criado de forma independente e depois importado e utilizado dentro do componente principal (`App.js`), conforme solicitado na atividade.
 
-- 📧 atendimento@hansen.adv.br
-- 📞 (51) 99960-1592 | (51) 3626-2128
-- 📍 Rua Balbino de Freitas, nº 383 - Centro, Torres/RS
+## 🛠️ Tecnologias Utilizadas
+
+- ReactJS (Create React App)
+- HTML5
+- CSS3 (inline e módulos)
+
+## 🚀 Como Executar
+
+1. Clone o repositório:  
+   `git clone <URL-do-seu-repositório>`
+
+2. Instale as dependências:  
+   `npm install`
+
+3. Execute o projeto:  
+   `npm start`
+
+Abra o navegador no endereço:  
+`http://localhost:3000`
+
+## 👩‍💻 Autor
+
+Desenvolvido por Diuly Rocha como parte das atividades acadêmicas da disciplina **Desenvolvimento de Aplicações Orientada a Componentes**.
+
